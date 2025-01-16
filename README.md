@@ -34,10 +34,6 @@ project-root/
 - **Estilos:** Puedes modificar los estilos en `app.css` y `spinner.css` para personalizar el diseño.
 - **Lógica del Formulario:** Edita `app.js` para agregar funcionalidades adicionales, como integración con APIs de correo.
 
-## Captura de Pantalla
-
-![Captura de Pantalla del Formulario](https://via.placeholder.com/800x400.png?text=Formulario+de+Envio+de+Emails)
-
 ## Tecnologías Utilizadas
 
 - **HTML5**: Estructura de la página.
